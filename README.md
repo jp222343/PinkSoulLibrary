@@ -1,4 +1,5 @@
 # PinkSoulLibrary Remake
+### More updates soon!
 ![Static Badge](https://img.shields.io/badge/version-0.6-orange)
 ![Static Badge](https://img.shields.io/badge/by-jp222343-purple)![Static Badge](https://img.shields.io/badge/credits-u%2FKayakazan-green)
 
