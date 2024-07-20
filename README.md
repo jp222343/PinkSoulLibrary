@@ -76,6 +76,10 @@ If you are lazy to look for it, here it is:
 ![font](assets/preview/font.png)
 
 **Don't forget to edit the Library code if you want to change the keys, i marked all the lines that you have to edit to make your custom keys work!**
+__If you don't know the key ID's, check the [Unity KeyCode documentation](https://docs.unity3d.com/2018.4/Documentation/ScriptReference/KeyCode.html), it contains all the Key ID that you need.__
+
+If you want to use an alphabet letter, make sure to **CAPITALIZE IT**, example: ``Input.GetKey("A"), ``
+  - If you put it in lower case it won't work.
 
 ---
 
