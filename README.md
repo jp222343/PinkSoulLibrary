@@ -14,7 +14,7 @@
 - 2 - Extract the zip file and put all the folders on the desired place of your mod
 - 3 - Follow the next instructions:
 
-
+## Inserting the library on a new attack
 
 ## The attack function
 - In the waves folder, you'll see a file called ``pinkattack.lua``, and it has many important functions.
@@ -25,10 +25,14 @@
 
   **Here is the explanation of the parameters:**
 
-| First Header  | Second Header |
+| Parameter  | Explanation |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| mainy  | It's the **y** level of the Main Bullet (The pink thingy) - Default value is __70__  |
+| lettery  | This is the **y** level of where the letters are going to spawn - Default value is __200__  |
+| maxrandomspeed | The letters spawn at different speeds, going from **1** to **maxrandomspeed** - Default value is __3__ |
+| delay | Delay for the letter spawning. (⚠️ **IT'S NOT IN SECONDS**) - Default value is __50__ (recommended) |
+
+
 
 
 
