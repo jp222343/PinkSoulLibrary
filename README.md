@@ -7,7 +7,7 @@
 
 ## Why did you make this library?
 - I made it due to the original library being removed from its uploaded page, so i decided to recreate it based on the [video](https://www.youtube.com/watch?v=6WUHM1Ck5j4&t=22s) that was left on youtube about it.
-======
+---
 
 # How to use the library
 - 1 - Download the library on the releases tab. (Make sure to download the latest version)
