@@ -14,6 +14,9 @@
 - 2 - Extract the zip file and put all the folders on the desired place of your mod
 - 3 - Follow the next instructions:
 
+## Arena Size
+- In your ``encounter.lua`` file, make sure that the ``arenasize`` for the pink soul wave is **{1, 100}** because it's recommended for the best experience.
+
 ## Inserting the library on a new wave
 If you want to put the library on a new wave, follow these instructions:
 **If you don't know how to install libraries, i recommend searching before doing these.**
@@ -24,7 +27,7 @@ If you get an error, it might be because the library isn't on the correct folder
 
 - 2 - Call the library by inserting this line somewhere in your script (DON'T INSERT IT INSIDE AN Update() FUNCTION):
   ```PinkSoulLibrary.PinkSoul()``` -- Parameters (Optional): mainy, lettery, maxrandomspeed, delay
-    - The Parameters are explained [here]([https://example.com](https://github.com/jp222343/PinkSoulLibrary/blob/main/README.md#the-attack-function-1)) (Scroll down to find them)
+    - The Parameters are explained [here]([https://example.com](https://github.com/jp222343/PinkSoulLibrary/blob/main/README.md#the-attack-function-1) (Scroll down to find them)
 - 3 - Add these blocks to make the library work correctly, or else you will get an **error**.
 
 ```
