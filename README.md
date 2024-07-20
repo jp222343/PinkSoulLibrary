@@ -16,7 +16,6 @@
 ---
 
 # How to use the library
-### Before doing these, create a folder called "__Libraries__" inside the __Lua__ folder on your mod, and place the library there.
 ###### If you don't know how to install libraries, i recommend searching before doing these.
 
 - 1 - Download the library on the releases tab. (Make sure to download the latest version)
