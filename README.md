@@ -37,7 +37,7 @@ function Update()
     PinkSoulLibrary.Update()
 end
 
--- DO NOT Remove this. If you need to use the OnHIt() function, just add your code under the 'PinkSoulLibrary.OnHit(bullet)' line.
+-- DO NOT Remove this. If you need to use the OnHit() function, just add your code under the 'PinkSoulLibrary.OnHit(bullet)' line.
 function OnHit(bullet)
     PinkSoulLibrary.OnHit(bullet)
 end
