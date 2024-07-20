@@ -11,6 +11,7 @@
 
 # Preview
 [Preview](https://jp222343.github.io/PinkSoulLibrary/assets/preview/video.mp4)
+###### (Low volume, sorry)
 ---
 
 # How to use the library
