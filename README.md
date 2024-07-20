@@ -68,6 +68,8 @@ end
 - **If you want to edit the letters, you'll also have to make the sprites. But don't worry, i left the entire font in the __'Sprites'__ folder.**
 > [!WARNING]  
 > The letters sprites have to be **50x50**!
+
+
 If you are lazy to look for it, here it is:
 ![font](assets/preview/font.png)
 
