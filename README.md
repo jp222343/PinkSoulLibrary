@@ -14,13 +14,37 @@
 - 2 - Extract the zip file and put all the folders on the desired place of your mod
 - 3 - Follow the next instructions:
 
-## Inserting the library on a new attack
+## Inserting the library on a new wave
+If you want to put the library on a new wave, follow these instructions:
+**If you don't know how to install libraries, i recommend searching before doing these.**
+
+- 1 - Import the library by placing this at the top of your wave script:
+```local PinkSoulLibrary = require("Libraries/pinksoul")```
+If you get an error, it might be because the library isn't on the correct folder (Libraries) or because you renamed the library lua file.
+
+- 2 - Call the library by inserting this line somewhere in your script (DON'T INSERT IT INSIDE AN Update() FUNCTION):
+  ```PinkSoulLibrary.PinkSoul()``` -- Parameters (Optional): mainy, lettery, maxrandomspeed, delay
+    - The Parameters are explained [here](https://example.com) (Scroll down to find them)
+- 3 - Add these blocks to make the library work correctly, or else you will get an **error**.
+
+```
+-- DO NOT Remove this. If you need to use the Update() function, just add your code under the 'PinkSoulLibrary.Update()' line.
+function Update()
+    PinkSoulLibrary.Update()
+end
+
+-- DO NOT Remove this. If you need to use the OnHIt() function, just add your code under the 'PinkSoulLibrary.OnHit(bullet)' line.
+function OnHit(bullet)
+    PinkSoulLibrary.OnHit(bullet)
+end
+```
+**After that, you're ready to go! But before that, read the next instructions:**
 
 ## The attack function
-- In the waves folder, you'll see a file called ``pinkattack.lua``, and it has many important functions.
+- In the library example waves folder (if you're using it), you'll see a file called ``pinkattack.lua``, and it has many important functions.
 
   ### The attack function
-  The attack function is the main function, and you can insert __optional__ parameters on it. The parameters needs to be put in this order:
+  The attack function is the main function, and you can insert __optional__ **parameters** on it. The parameters needs to be put in this order:
   ```PinkSoulLibrary.PinkSoul(mainy, lettery, maxrandomspeed, delay)```
 
   **Here is the explanation of the parameters:**
@@ -32,7 +56,10 @@
 | maxrandomspeed | The letters spawn at different speeds, going from **1** to **maxrandomspeed** - Default value is __3__ |
 | delay | Delay for the letter spawning. (⚠️ **IT'S NOT IN SECONDS**) - Default value is __50__ (recommended) |
 
+---
 
+### And that's it! Feel free to edit or improve this library.
+### All credits go to u/Kayakazan
 
 
 
