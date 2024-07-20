@@ -6,7 +6,7 @@
 **"Pink Soul : Defend yourself...in rhythm ! (Kinda)" - u/Kayakazan, 2015.**
 - This library is a remake of the first Pink Soul library created back in __2015__. The original owner is **u/Kayakazan**, so all the credits should be given to him.
 
-## Why did you make this library?
+## Why did i make this library?
 - I made it due to the original library being removed from its uploaded page, so i decided to recreate it based on the [video](https://www.youtube.com/watch?v=6WUHM1Ck5j4&t=22s) that was left on youtube about it.
 ---
 
