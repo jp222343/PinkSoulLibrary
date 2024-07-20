@@ -1,7 +1,7 @@
 # PinkSoulLibrary Remake
 ### More updates soon!
 ![Static Badge](https://img.shields.io/badge/version-0.6-orange)
-![Static Badge](https://img.shields.io/badge/by-jp222343-purple)![Static Badge](https://img.shields.io/badge/credits-u%2FKayakazan-green)
+![Static Badge](https://img.shields.io/badge/by-jp222343-purple) ![Static Badge](https://img.shields.io/badge/credits-u%2FKayakazan-green)
 
 # The Pink Soul Library Remake
 **"Pink Soul : Defend yourself...in rhythm ! (Kinda)" - u/Kayakazan, 2015.**
