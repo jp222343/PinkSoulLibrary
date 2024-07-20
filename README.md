@@ -10,7 +10,7 @@
 - I made it due to the original library being removed from its uploaded page, so i decided to recreate it based on the [video](https://www.youtube.com/watch?v=6WUHM1Ck5j4&t=22s) that was left on youtube about it.
 
 # Preview
-[![Preview](https://jp222343.github.io/PinkSoulLibrary/assets/preview/video.mp4)]
+[![Preview](https://jp222343.github.io/PinkSoulLibrary/assets/index.html)]
 ---
 
 # How to use the library
@@ -62,6 +62,16 @@ end
 | lettery  | This is the **y** level of where the letters are going to spawn - Default value is __200__  |
 | maxrandomspeed | The letters spawn at different speeds, going from **1** to **maxrandomspeed** - Default value is __3__ |
 | delay | Delay for the letter spawning. (⚠️ **IT'S NOT IN SECONDS**) - Default value is __50__ (recommended) |
+
+# How to change the key letters
+
+- **If you want to edit the letters, you'll also have to make the sprites. But don't worry, i left the entire font in the __'Sprites'__ folder.**
+> [!WARNING]  
+> The letters sprites have to be **50x50**!
+If you are lazy to look for it, here it is:
+![font](assets/preview/font.png)
+
+**Don't forget to edit the Library code if you want to change the keys, i marked all the lines that you have to edit to make your custom keys work!**
 
 ---
 
