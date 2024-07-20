@@ -16,6 +16,9 @@
 ---
 
 # How to use the library
+### Before doing these, create a folder called "__Libraries__" inside the __Lua__ folder on your mod, and place the library there.
+###### If you don't know how to install libraries, i recommend searching before doing these.
+
 - 1 - Download the library on the releases tab. (Make sure to download the latest version)
 - 2 - Extract the zip file and put all the folders on the desired place of your mod
 - 3 - Follow the next instructions:
@@ -25,7 +28,7 @@
 
 ## Inserting the library on a new wave
 If you want to put the library on a new wave, follow these instructions:
-**If you don't know how to install libraries, i recommend searching before doing these.**
+
 
 - 1 - Import the library by placing this at the top of your wave script:
 ```local PinkSoulLibrary = require("Libraries/pinksoul")```
