@@ -31,7 +31,7 @@ If you want to put the library on a new wave, follow these instructions:
 
 - 1 - Import the library by placing this at the top of your wave script:
 ```local PinkSoulLibrary = require("Libraries/pinksoul")```
-If you get an error, it might be because the library isn't on the correct folder (Libraries) or because you renamed the library lua file.
+If you get an error, it might be because the library isn't on the correct folder (Libraries) or because you renamed the Library lua file and/or folder.
 
 - 2 - Call the library by inserting this line somewhere in your script (DON'T INSERT IT INSIDE AN Update() FUNCTION):
   ```PinkSoulLibrary.PinkSoul()``` -- Parameters (Optional): mainy, lettery, maxrandomspeed, delay
