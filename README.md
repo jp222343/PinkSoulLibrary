@@ -19,6 +19,8 @@
 ###### If you don't know how to install libraries, i recommend searching before doing these.
 
 - 1 - Download the library on the releases tab. (Make sure to download the latest version)
+   - Releases tab shortcut: ![Static Badge](https://img.shields.io/badge/View_Releases-blue)(https://github.com/jp222343/PinkSoulLibrary/releases)
+
 - 2 - Extract the zip file, open the **"PinkSoulLibrary"** folder and put all the other folders on the desired place of your mod (Lua, Audio and Sprites) - Make sure the sub folders are also on the correct place.
 - 3 - Follow the next instructions:
 
