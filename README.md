@@ -24,7 +24,7 @@ If you get an error, it might be because the library isn't on the correct folder
 
 - 2 - Call the library by inserting this line somewhere in your script (DON'T INSERT IT INSIDE AN Update() FUNCTION):
   ```PinkSoulLibrary.PinkSoul()``` -- Parameters (Optional): mainy, lettery, maxrandomspeed, delay
-    - The Parameters are explained [here](https://example.com) (Scroll down to find them)
+    - The Parameters are explained [here]([https://example.com](https://github.com/jp222343/PinkSoulLibrary/blob/main/README.md#the-attack-function-1)) (Scroll down to find them)
 - 3 - Add these blocks to make the library work correctly, or else you will get an **error**.
 
 ```
