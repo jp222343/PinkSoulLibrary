@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/by-jp222343-purple)![Static Badge](https://img.shields.io/badge/credits-u%2FKayakazan-green)
 
 # The Pink Soul Library Remake
+**"Pink Soul : Defend yourself...in rhythm ! (Kinda)" - u/Kayakazan, 2015.**
 - This library is a remake of the first Pink Soul library created back in __2015__. The original owner is **u/Kayakazan**, so all the credits should be given to him.
 
 ## Why did you make this library?
