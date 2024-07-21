@@ -1,6 +1,6 @@
 # PinkSoulLibrary Remake
 ### More updates soon!
-![Static Badge](https://img.shields.io/badge/version-0.6-orange)
+![Static Badge](https://img.shields.io/badge/version-0.7-orange)
 ![Static Badge](https://img.shields.io/badge/by-jp222343-purple) ![Static Badge](https://img.shields.io/badge/credits-u%2FKayakazan-green)
 
 # The Pink Soul Library Remake
@@ -10,9 +10,9 @@
 ## Why did i make this library?
 - I made it due to the original library being removed from its uploaded page, so i decided to recreate it based on the [video](https://www.youtube.com/watch?v=wGoT2A1yR6w) that was left on youtube about it.
 
-# Preview
-[Preview](https://jp222343.github.io/PinkSoulLibrary/assets/preview/video.mp4)
-###### (Low volume, sorry)
+# Preview (v0.7)
+[Preview](https://jp222343.github.io/PinkSoulLibrary/assets/preview/video-v0.7.mp4)
+
 ---
 
 # How to use the library
@@ -33,10 +33,13 @@ If you want to put the library on a new wave, follow these instructions:
 ```local PinkSoulLibrary = require("Libraries/pinksoul")```
 If you get an error, it might be because the library isn't on the correct folder (Libraries) or because you renamed the Library lua file and/or folder.
 
-- 2 - Call the library by inserting this line somewhere in your script (DON'T INSERT IT INSIDE AN Update() FUNCTION):
-  ```PinkSoulLibrary.PinkSoul()``` -- Parameters (Optional): mainy, lettery, maxrandomspeed, delay
+- 2 **(Optional)** - Enable or disable the cooldown warning by adding this function into your wave file:
+```PinkSoulLibrary.cooldownwarning(true)``` - Use **true** to enable (Default) or **false** to disable the cooldown warning.
+  
+- 3 - Call the library by inserting this line somewhere in your script (DON'T INSERT IT INSIDE AN Update() FUNCTION):
+  ```PinkSoulLibrary.PinkSoul()``` -- Parameters (Optional): ```mainy, lettery, maxrandomspeed, delay```
     - The Parameters are explained [here](https://github.com/jp222343/PinkSoulLibrary/blob/main/README.md#the-attack-function-1) (Scroll down to find them)
-- 3 - Add these blocks to make the library work correctly, or else you will get an **error**.
+- 4 - Add these blocks to make the library work correctly, or else you will get an **error**.
 
 ```
 -- DO NOT Remove this. If you need to use the Update() function, just add your code under the 'PinkSoulLibrary.Update()' line.
