@@ -1,4 +1,9 @@
 # PinkSoulLibrary Remake
+> [!WARNING]  
+> ## V0.7 REQUIRES CYF.v0.6.6.LTS.3 ! [Download it here](https://github.com/RhenaudTheLukark/CreateYourFrisk/releases/tag/v0.6.6.3)
+> ## IF YOU ARE USING THE LTS 2 VERSION, DOWNLOAD V0.6 INSTEAD!
+> I will make v0.7 compatible with LTS 2 version soon, so don't worry!
+
 ### More updates soon!
 ![Static Badge](https://img.shields.io/badge/version-0.7-orange)
 ![Static Badge](https://img.shields.io/badge/by-jp222343-purple) ![Static Badge](https://img.shields.io/badge/credits-u%2FKayakazan-green)
