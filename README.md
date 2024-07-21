@@ -1,6 +1,6 @@
 # PinkSoulLibrary Remake
 > [!WARNING]  
-> ## V0.7 REQUIRES CYF.v0.6.6.LTS.3 ! [Download it here](https://github.com/RhenaudTheLukark/CreateYourFrisk/releases/tag/v0.6.6.3)
+> ## V0.7 REQUIRES CYF v0.6.6.LTS.3 ! [Download it here](https://github.com/RhenaudTheLukark/CreateYourFrisk/releases/tag/v0.6.6.3)
 > ## IF YOU ARE USING THE LTS 2 VERSION, DOWNLOAD V0.6 INSTEAD!
 > I will make v0.7 compatible with LTS 2 version soon, so don't worry!
 
