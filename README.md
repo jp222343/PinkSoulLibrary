@@ -93,6 +93,9 @@ If you want to use an alphabet letter, make sure to **CAPITALIZE IT**, example: 
 
 ---
 
+## Future update plans:
+- Bigger arena attack
+
 ### And that's it! Feel free to edit or improve this library.
 ### All credits go to u/Kayakazan
 
