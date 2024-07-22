@@ -1,8 +1,8 @@
 # PinkSoulLibrary Remake
 > [!WARNING]  
-> ## If you are using CYF v0.6.6 LS2, then download v0.8 LS2 compatible.
-> ## If you are using CYF v0.6.6 LS3, then download the normal v0.8 version.
-> ###### Don't know how to install CYF v0.6.6 LS3 version?  [Download it here](https://github.com/RhenaudTheLukark/CreateYourFrisk/releases/tag/v0.6.6.3)
+> ## If you are using CYF v0.6.6 LTS2, then download v0.8 LS2 compatible.
+> ## If you are using CYF v0.6.6 LTS3, then download the normal v0.8 version.
+> ###### Don't know how to install CYF v0.6.6 LTS3 version?  [Download it here](https://github.com/RhenaudTheLukark/CreateYourFrisk/releases/tag/v0.6.6.3)
 
 ### More updates soon!
 ![Static Badge](https://img.shields.io/badge/version-0.8-orange)
