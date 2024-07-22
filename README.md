@@ -1,6 +1,6 @@
 # PinkSoulLibrary Remake
 > [!WARNING]  
-> ## If you are using CYF v0.6.6 LTS2, then download v0.8 LS2 compatible.
+> ## If you are using CYF v0.6.6 LTS2, then download v0.8 LTS2 compatible.
 > ## If you are using CYF v0.6.6 LTS3, then download the normal v0.8 version.
 > ###### Don't know how to install CYF v0.6.6 LTS3 version?  [Download it here](https://github.com/RhenaudTheLukark/CreateYourFrisk/releases/tag/v0.6.6.3)
 
@@ -112,7 +112,7 @@ If you want to use an alphabet letter, make sure to **CAPITALIZE IT**, example: 
 --[[
 
 !!!!!!!!!!!!!!!!!!!!!!
-PinkSoulLibrary V0.8 FOR CYF V0.6.6 >>LS3<< (Latest)
+PinkSoulLibrary V0.8 FOR CYF V0.6.6 >>LTS3<< (Latest)
 !!!!!!!!!!!!!!!!!!!!!!
 
 ]]
